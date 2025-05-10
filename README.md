@@ -1,2 +1,2 @@
-# zylxneorbx
-ZylxOnTop
+# Zylx Script Executor Roblox
+Zylx – Unleash the power of seamless exploitation with Zylx, the sleek, ultra-fast executor designed for the bold. With no frills, no unnecessary features—just pure, raw script execution. Whether you’re on Roblox or beyond, Zylx is built to keep your exploits clean and efficient. Easy to use, but packed with all the tools you need to dominate the game. Welcome to the future of execution
